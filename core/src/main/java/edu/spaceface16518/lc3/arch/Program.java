@@ -1,4 +1,4 @@
-package lc3.arch;
+package edu.spaceface16518.lc3.arch;
 
 import java.io.DataInputStream;
 import java.io.File;
