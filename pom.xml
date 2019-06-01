@@ -11,6 +11,7 @@
     <modules>
         <module>lc3-vm</module>
         <module>core</module>
+        <module>asm-tools</module>
     </modules>
 
 

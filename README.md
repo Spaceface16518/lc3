@@ -10,6 +10,7 @@ _This README is in progress and will be expanded._
 - A (separate) debugging virtual machine, (with simple plugin support?) _TODO, may be cancelled_
 - A visual simulator for the LC-3 computer _TODO_
 - A suite of tools for working with LC-3 assembly _All TODO_
+    - Core tools for working with LC-3 assembly _TODO_
     - LC-3 assembler _TODO_
     - LC-3 to JVM converter _TODO_
     - LC-3 to LLVM converter _TODO_
