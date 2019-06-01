@@ -50,4 +50,11 @@ public abstract class Instruction {
         if (!line.equals(that.line)) return false;
         return Objects.equals(label, that.label);
     }
+
+    @Override
+    public String toString() {
+        return this.line; // FIXME: should probably be a processes version of this, but this will do for now
+    }
+
+    public abstract String toByteCode();
 }
